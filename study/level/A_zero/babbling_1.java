@@ -17,7 +17,7 @@ public class babbling_1 {
      * 즉, 각 문자열의 가능한 모든 부분 문자열 중에서 "aya", "ye", "woo", "ma"가 한 번씩만 등장합니다.
      * 문자열은 알파벳 소문자로만 이루어져 있습니다.
      * <p>
-     * babbling	                                       result
+     * babbling	                                              result
      * ["aya", "yee", "u", "maa", "wyeoo"]                      1
      * ["ayaye", "uuuma", "ye", "yemawoo", "ayaa"]              3
      */
