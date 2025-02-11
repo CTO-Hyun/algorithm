@@ -13,7 +13,7 @@ public class Addition_Of_Fractions {
      * 제한사항
      * 0 < numer1, denom1, numer2, denom2 < 1,000
      * <p>
-     * numer1	denom1  numer2	denom2	                         result
+     * numer1	denom1  numer2	denom2	                                result
      * 1	        2	          3	        4	        [5, 4]
      * 9	        2	          1	        3	       [29, 6]
      */
