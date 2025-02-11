@@ -18,8 +18,8 @@ public class babbling_1 {
      * 문자열은 알파벳 소문자로만 이루어져 있습니다.
      * <p>
      * babbling	                                  result
-     * ["aya", "yee", "u", "maa", "wyeoo"]              	    1
-     * ["ayaye", "uuuma", "ye", "yemawoo", "ayaa"]	    3
+     * ["aya", "yee", "u", "maa", "wyeoo"]                         1
+     * ["ayaye", "uuuma", "ye", "yemawoo", "ayaa"]              3
      */
 
     public static void main(String[] args) {
