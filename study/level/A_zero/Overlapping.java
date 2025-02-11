@@ -24,7 +24,7 @@ public class Overlapping {
      * lines의 원소는 [a, b] 형태이며, a, b는 각각 선분의 양 끝점 입니다.
      * -100 ≤ a < b ≤ 100
      * <p>
-     * lines	                    result
+     * lines	                             result
      * [[0, 1], [2, 5], [3, 9]]	          2
      * [[-1, 1], [1, 3], [3, 9]]	      0
      * [[0, 5], [3, 9], [1, 10]]	      8
