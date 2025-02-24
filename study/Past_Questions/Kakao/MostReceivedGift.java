@@ -34,10 +34,10 @@ public class MostReceivedGift {
      *      gifts의 원소는 "A B"형태의 문자열입니다. A는 선물을 준 친구의 이름을 B는 선물을 받은 친구의 이름을 의미하며 공백 하나로 구분됩니다.
      *      A와 B는 friends의 원소이며 A와 B가 같은 이름인 경우는 존재하지 않습니다.
      *
-     *                          friends	                                                                                                 gifts	                                                                                  result
+     *                          friends	                                                                                                 gifts	                           result
      * ["muzi", "ryan", "frodo", "neo"]	                 ["muzi frodo", "muzi frodo", "ryan muzi", "ryan muzi", "ryan muzi", "frodo muzi", "frodo ryan", "neo muzi"]	  2
-     * ["joy", "brad", "alessandro", "conan", "david"]	  ["alessandro brad", "alessandro joy", "alessandro conan", "david alessandro", "alessandro david"]	           4
-     * ["a", "b", "c"]	                                  ["a b", "b a", "c a", "a c", "a c", "c a"]	                                                                   0
+     * ["joy", "brad", "alessandro", "conan", "david"]	  ["alessandro brad", "alessandro joy", "alessandro conan", "david alessandro", "alessandro david"]	          4
+     * ["a", "b", "c"]	                                  ["a b", "b a", "c a", "a c", "a c", "c a"]	                                                                  0
      */
 
     public int solution(String[] friends, String[] gifts) {
